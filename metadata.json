@@ -1,0 +1,8 @@
+{
+  "name": "Tech Janat",
+  "description": "تطبيق إدارة المهام والصيانة للمنشآت السياحية بمراكش (فيلا العفاسيل وغيرها) - يعمل أوفلاين مع ميزات ذكية",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
